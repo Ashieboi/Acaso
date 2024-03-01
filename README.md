@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-<title>Philosopy</title>
 </head>
 <body background="Galilee.jpg">
 <h1 style="text-align:center;background-color:blue">Philosopy</h1>
@@ -11,7 +10,6 @@
 
 <!DOCTYPE html>
 <html>
-<title>Vision</title>
 </head>
 <body>
 <h1 style="text-align:center;background-color:red">Vision</h1>
@@ -22,7 +20,6 @@
 
 <!DOCTYPE html>
 <html>
-<title>Mission</title>
 </head>
 <body>
 <h1 style="text-align:center;background-color:yellow">Mission</h1>
@@ -33,7 +30,6 @@
 
 <!DOCTYPE html>
 <html>
-<title>Goal</title>
 </head>
 <body>
 <h1 style="text-align:center;background-color:green">Goal</h1>
@@ -44,7 +40,6 @@
 
 <!DOCTYPE html>
 <html>
-<title>Objectives</title>
 </head>
 <body>
 <h1 style="text-align:center;background-color:darkblue">Objectives</h1>
