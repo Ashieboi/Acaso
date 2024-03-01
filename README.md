@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 </head>
 <body background="Galilee.jpg">
@@ -8,7 +7,6 @@
 </body>
 <html>
 
-<!DOCTYPE html>
 <html>
 </head>
 <body>
@@ -18,7 +16,6 @@
 </body>
 <html>
 
-<!DOCTYPE html>
 <html>
 </head>
 <body>
@@ -28,7 +25,6 @@
 </body>
 <html>
 
-<!DOCTYPE html>
 <html>
 </head>
 <body>
@@ -38,7 +34,6 @@
 </body>
 <html>
 
-<!DOCTYPE html>
 <html>
 </head>
 <body>
